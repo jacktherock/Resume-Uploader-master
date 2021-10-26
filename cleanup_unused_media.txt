@@ -1,0 +1,3 @@
+// When admin deletes uploaded user resume then his profile img & files are stored in db the to delete that files run below command manually:
+
+>> python manage.py cleanup_unused_media
